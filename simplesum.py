@@ -1,0 +1,1 @@
+print ("This is week2 assignment work done by Wei Wei (Lucas)")
